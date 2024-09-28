@@ -5,3 +5,4 @@
 ! Description: 
 !
 ||blog.livedoor.jp/nanjstu/##span > div
+||blog.livedoor.jp/nanjstu/##iframe

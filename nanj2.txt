@@ -4,4 +4,5 @@
 ! Last modified: 2018-02-26
 ! Description: 日本語ウェブサイト・日本語アプリ・280blocker利用時におけるAdGuard for Androidの不具合等を改修するためのフィルターです。
 !
-@@||microad.jp^$app=com.adguard.dns
+||blog.livedoor.jp/nanjstu/##span > div
+||blog.livedoor.jp/nanjstu/##iframe

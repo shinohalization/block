@@ -1,0 +1,7 @@
+! Title: なんJスタジアム
+! Homepage: https://github.com/shinohalization/block/
+! Licence: https://github.com/shinohalization/block/
+! Version: 20240925
+!
+||blog.livedoor.jp/nanjstu/##span > div
+||blog.livedoor.jp/nanjstu/##iframe

@@ -3,4 +3,4 @@
 ! Licence: https://github.com/shinohalization/block/
 ! Version: 20240925
 !
-||blog.livedoor.jp/nanjstu/*
+blog.livedoor.jp/nanjstu/*

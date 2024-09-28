@@ -1,8 +1,23 @@
-! Title: なんJ改修フィルター
-! Homepage: http://wikiwiki.jp/nanj-adguard/
-! License: CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
-! Last modified: 2024-09-28
-! Description: 日本語ウェブサイト・日本語アプリ・280blocker利用時におけるAdGuard for Androidの不具合等を改修するためのフィルターです。
+[Adblock Plus 2.0]
+! Title: 豆腐フィルタ
+! Homepage: http://tofukko.r.ribbon.to/abp.html
 !
-||blog.livedoor.jp/nanjstu/##span > div
-||blog.livedoor.jp/nanjstu/##iframe
+! 最終更新 2024/09/08 14:29
+!
+
+! 2024/08/12
+! 2024/09/31 サ終
+! https://akiba-souken.com/article/66874/
+! --- akiba-souken.com --- !
+||akiba-souken.com/js/ad_
+||akiba-souken.com/js/ad/
+akiba-souken.com###adGameRanking
+akiba-souken.com##.articleGoodsBox
+akiba-souken.com##.middleBnr
+
+! 2024/07/29
+! https://x.com/48idol_tv/status/1792523932630716916
+! https://x.com/48idol_tv/status/1792612268414480513
+! https://x.com/48idol_tv/status/1792910292399050976
+48idol.tv###custom_html-2
+48idol.tv###custom_html-8

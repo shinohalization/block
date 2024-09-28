@@ -4,5 +4,5 @@
 ! Last modified: 2024-09-26
 ! Description: 
 !
-||blog.livedoor.jp/nanjstu/##span > div
-||blog.livedoor.jp/nanjstu/##iframe
+||blog.livedoor.jp/nanjstu/$$span > div
+||blog.livedoor.jp/nanjstu/$$iframe
